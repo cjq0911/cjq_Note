@@ -2,6 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "5. Main Note",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "relative",
+  "newLinkFormat": "shortest",
   "attachmentFolderPath": "1. Source Material"
 }
