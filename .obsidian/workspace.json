@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. Main Note/多元链式法则.md",
+                "file": "5. Main Note/多阶偏导.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元链式法则"
+              "title": "多阶偏导"
             }
           }
         ]
@@ -172,8 +172,14 @@
   },
   "active": "3e02473b3558f924",
   "lastOpenFiles": [
-    "5. Main Note/偏导数.md",
+    "2. Tag/Physics.md",
+    "2. Tag/数学.md",
+    "2. Tag/baby.md",
+    "2. Tag/Humility.md",
+    "5. Main Note/多阶偏导.md",
+    "6. Empty Note/施瓦兹定理.md",
     "5. Main Note/多元链式法则.md",
+    "5. Main Note/偏导数.md",
     "1. Source Material/Pasted image 20250401145412.png",
     "6. Empty Note/极限.md",
     "4. Template/Full Note.md",
@@ -184,11 +190,8 @@
     "6. Empty Note",
     "1. Source Material/Mutilple-variable Chain rule fig1.png",
     "6. Empty Note/链式法则.md",
-    "2. Tag/数学.md",
     "6. Empty Note/导数.md",
     "4. Template/MATH_SYMBOL.md",
-    "2. Tag/Humility.md",
-    "2. Tag/Physics.md",
     "5. Main Note",
     "4. Template",
     "3. Index",
