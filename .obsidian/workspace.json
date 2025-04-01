@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Main Note/Pore space depend temperature.md",
+                "file": "5. Main Note/方向导数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pore space depend temperature 的反向链接列表"
+              "title": "方向导数 的反向链接列表"
             }
           },
           {
@@ -174,9 +174,9 @@
   "lastOpenFiles": [
     "5. Main Note/偏导数.md",
     "5. Main Note/方向导数.md",
+    "5. Main Note/梯度.md",
     "5. Main Note/多元链式法则.md",
     "5. Main Note/多阶偏导.md",
-    "5. Main Note/梯度.md",
     "1. Source Material/Symmetry of Second derivatives.png",
     "1. Source Material/gradient.png",
     "1. Source Material/Pasted image 20250401165429.png",
