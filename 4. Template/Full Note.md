@@ -4,6 +4,4 @@ Status:
 
 Tags:
 
-# {{Title}}
-
 # Reference
