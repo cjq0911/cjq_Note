@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cbc8eb7f51bc3ab6",
+        "id": "3a5edbae03524450",
         "type": "tabs",
         "children": [
           {
-            "id": "3e02473b3558f924",
+            "id": "a7d258b12514d4a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -170,19 +170,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e02473b3558f924",
+  "active": "a7d258b12514d4a8",
   "lastOpenFiles": [
-    "2. Tag/Note.md",
+    "1. Source Material/A Casual Note With Envelope Line fig2.png",
     "5. Main Note/关于包络线直线求解的感想.md",
-    "2. Tag/concept.md",
+    "1. Source Material/A Casual Note With Envelope Line fig1.png",
+    "6. Empty Note/勒让德变换.md",
     "5. Main Note/多阶偏导.md",
+    "5. Main Note/偏导数.md",
+    "6. Empty Note/球谐函数.md",
+    "2. Tag/Note.md",
+    "2. Tag/concept.md",
     "6. Empty Note/包络线.md",
     "5. Main Note/直线方程.md",
     "1. Source Material/Direction Fuction fig1.png",
     "1. Source Material/Line Fuction fig1.png",
     "4. Template/MATH_SYMBOL.md",
     "5. Main Note/梯度.md",
-    "5. Main Note/偏导数.md",
     "5. Main Note/方向导数.md",
     "5. Main Note/几何.md",
     "5. Main Note/多元链式法则.md",
@@ -192,7 +196,6 @@
     "1. Source Material/Pasted image 20250401165643.png",
     "1. Source Material/Partial Derivative fig1.png",
     "1. Source Material/Pasted image 20250401165657.png",
-    "1. Source Material/Pasted image 20250401153940.png",
     "5. Main Note/Pore space depend temperature.md",
     "6. Empty Note/微分中值定理.md",
     "6. Empty Note/全微分.md",
@@ -205,11 +208,7 @@
     "6. Empty Note/极限.md",
     "4. Template/Full Note.md",
     "未命名.canvas",
-    "6. Empty Note/多元微积分.md",
-    "6. Empty Note/微分形式的不变性.md",
     "6. Empty Note",
-    "1. Source Material/Mutilple-variable Chain rule fig1.png",
-    "6. Empty Note/链式法则.md",
     "5. Main Note",
     "4. Template",
     "3. Index",
