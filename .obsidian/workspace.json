@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Tag/baby.md",
+                "file": "5. Main Note/关于极限的想法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "baby"
+              "title": "关于极限的想法"
             }
           }
         ]
@@ -172,6 +172,14 @@
   },
   "active": "d814c47d6687c232",
   "lastOpenFiles": [
+    "5. Main Note/关于包络线直线求解的感想.md",
+    "5. Main Note/关于极限的想法.md",
+    "5. Main Note/方向导数.md",
+    "5. Main Note/梯度.md",
+    "5. Main Note/偏导数.md",
+    "5. Main Note/多阶偏导.md",
+    "5. Main Note/多元链式法则.md",
+    "2. Tag/baby.md",
     "2. Tag/数学.md",
     "1. Source Material/Symmetry of Second derivatives.png",
     "1. Source Material/Partial Derivative fig1.png",
@@ -181,21 +189,15 @@
     "1. Source Material/Direction Fuction fig1.png",
     "1. Source Material/A Casual Note With Envelope Line fig2.png",
     "1. Source Material/A Casual Note With Envelope Line fig1.png",
-    "5. Main Note/关于包络线直线求解的感想.md",
     "6. Empty Note/函数.md",
     "6. Empty Note/勒让德变换.md",
-    "5. Main Note/多阶偏导.md",
-    "5. Main Note/偏导数.md",
     "6. Empty Note/球谐函数.md",
     "2. Tag/Note.md",
     "2. Tag/concept.md",
     "6. Empty Note/包络线.md",
     "5. Main Note/直线方程.md",
     "4. Template/MATH_SYMBOL.md",
-    "5. Main Note/梯度.md",
-    "5. Main Note/方向导数.md",
     "5. Main Note/几何.md",
-    "5. Main Note/多元链式法则.md",
     "1. Source Material/Pasted image 20250401165429.png",
     "1. Source Material/Pasted image 20250401165643.png",
     "5. Main Note/Pore space depend temperature.md",
@@ -203,7 +205,6 @@
     "6. Empty Note/全微分.md",
     "6. Empty Note/向量的加法.md",
     "2. Tag/Physics.md",
-    "2. Tag/baby.md",
     "2. Tag/Humility.md",
     "6. Empty Note/施瓦兹定理.md",
     "6. Empty Note/极限.md",
