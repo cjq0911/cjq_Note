@@ -25,12 +25,14 @@
             "id": "ccbf0c4441f886de",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "5. Main Note/方向导数.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "方向导数"
             }
           }
         ],
@@ -185,6 +187,13 @@
   },
   "active": "ccbf0c4441f886de",
   "lastOpenFiles": [
+    "5. Main Note/梯度.md",
+    "5. Main Note/偏导数.md",
+    "5. Main Note/关于极限与微积分的想法.md",
+    "5. Main Note/方向导数.md",
+    "5. Main Note/多元链式法则.md",
+    "5. Main Note/多阶偏导.md",
+    "5. Main Note/梯度为什么是函数变化最快的方向.md",
     "5. Main Note/对数-对数坐标系.md",
     "2. Tag/对数.md",
     "5. Main Note/Pore space depend temperature.md",
@@ -192,14 +201,7 @@
     "5. Main Note/显示方法和隐式方法.md",
     "6. Empty Note/CFL条件.md",
     "6. Empty Note/扩散方程.md",
-    "5. Main Note/梯度为什么是函数变化最快的方向.md",
-    "5. Main Note/梯度.md",
-    "5. Main Note/方向导数.md",
-    "5. Main Note/关于极限与微积分的想法.md",
     "5. Main Note/关于包络线直线求解的感想.md",
-    "5. Main Note/偏导数.md",
-    "5. Main Note/多阶偏导.md",
-    "5. Main Note/多元链式法则.md",
     "2. Tag/baby.md",
     "2. Tag/数学.md",
     "1. Source Material/Symmetry of Second derivatives.png",
