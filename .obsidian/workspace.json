@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "多元链式法则"
             }
+          },
+          {
+            "id": "ccbf0c4441f886de",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d814c47d6687c232",
+  "active": "ccbf0c4441f886de",
   "lastOpenFiles": [
     "5. Main Note/对数-对数坐标系.md",
     "2. Tag/对数.md",
