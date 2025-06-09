@@ -2,14 +2,14 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "2. Main Note/关于包络线直线求解的感想",
+      "value": "1. Daily Note/Welcome",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
       "revertView": true,
-      "openWhenEmpty": false,
+      "openWhenEmpty": true,
       "refreshDataview": false,
       "autoCreate": false,
       "autoScroll": false,

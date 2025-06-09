@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "4. Template",
+  "templates_folder": "5. Template",
   "templates_pairs": [
     [
       "",
@@ -29,7 +29,7 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "4. Template/MATH_SYMBOL.md"
+    "5. Template/MATH_SYMBOL.md"
   ],
   "startup_templates": [
     ""
