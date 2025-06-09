@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "149fe1949effe697",
+        "id": "9182334ebd941859",
         "type": "tabs",
         "children": [
           {
-            "id": "6656f50599ff2748",
+            "id": "473ef7392dcc9f44",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -192,14 +192,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6656f50599ff2748",
+  "active": "473ef7392dcc9f44",
   "lastOpenFiles": [
-    "1. Daily Note/2025-06-09.md",
+    "1. Daily Note/Welcome.md",
+    "7. Empty Note/链式法则.md",
     "2. Main Note/多元链式法则.md",
+    "1. Daily Note/2025-06-09.md",
     "2. Main Note/全微分.md",
     "2. Main Note/方向导数.md",
     "2. Main Note/梯度为什么是函数变化最快的方向.md",
-    "1. Daily Note/Welcome.md",
     "2. Main Note/梯度.md",
     "2. Main Note/偏导数.md",
     "3. Tag/未整理.md",
@@ -220,7 +221,6 @@
     "2. Main Note/显示方法和隐式方法.md",
     "3. Tag/笔记.md",
     "2. Main Note/对数-对数坐标系.md",
-    "3. Tag/概念.md",
     "4. Source Material/Symmetry of Second derivatives.png",
     "4. Source Material/Partial Derivative fig1.png",
     "4. Source Material/Mutilple-variable Chain rule fig1.png",
