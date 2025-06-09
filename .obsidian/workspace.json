@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -194,8 +195,8 @@
   "active": "21d3530e130f79fc",
   "lastOpenFiles": [
     "5. Template/Full Note.md",
-    "5. Template/MATH_SYMBOL.md",
     "5. Template/Daily Note.md",
+    "5. Template/MATH_SYMBOL.md",
     "1. Daily Note",
     "2. Main Note/2025-06-09.md",
     "未命名.md",
