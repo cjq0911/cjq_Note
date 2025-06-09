@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9182334ebd941859",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "473ef7392dcc9f44",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "偏导数与坐标系转换.md",
+                "file": "1. Daily Note/2025-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "偏导数与坐标系转换"
+              "title": "2025-06-09"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "偏导数与坐标系转换.md",
+                "file": "1. Daily Note/2025-06-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "偏导数与坐标系转换 的大纲"
+              "title": "2025-06-09 的大纲"
             }
           },
           {
@@ -192,12 +192,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "473ef7392dcc9f44",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "1. Daily Note/2025-06-09.md",
-    "2. Main Note/多元链式法则.md",
-    "偏导数与坐标系转换.md",
+    "1. Daily Note/2025-06-10.md",
     "1. Daily Note/Welcome.md",
+    "1. Daily Note/2025-06-09.md",
+    "2. Main Note/关于极限与微积分的想法.md",
+    "3. Tag/笔记.md",
+    "2. Main Note/多元链式法则.md",
+    "2. Main Note/关于包络线直线求解的感想.md",
+    "2. Main Note/直线方程.md",
+    "2. Main Note/对数-对数坐标系.md",
+    "2. Main Note/偏导数与坐标系转换.md",
     "7. Empty Note/链式法则.md",
     "2. Main Note/全微分.md",
     "2. Main Note/方向导数.md",
@@ -206,9 +212,6 @@
     "2. Main Note/偏导数.md",
     "3. Tag/未整理.md",
     "3. Tag/已整理.md",
-    "2. Main Note/关于包络线直线求解的感想.md",
-    "2. Main Note/关于极限与微积分的想法.md",
-    "2. Main Note/直线方程.md",
     "5. Template/Daily Note.md",
     "2. Main Note/多阶偏导.md",
     "2025-06-09.md",
@@ -218,9 +221,6 @@
     "2. Main Note/2025-06-09.md",
     "未命名.md",
     "2. Main Note/概率的乘法与加法.md",
-    "2. Main Note/每个连续变量概率为0，为什么加起来为1.md",
-    "2. Main Note/显示方法和隐式方法.md",
-    "3. Tag/笔记.md",
     "4. Source Material/Symmetry of Second derivatives.png",
     "4. Source Material/Partial Derivative fig1.png",
     "4. Source Material/Mutilple-variable Chain rule fig1.png",
