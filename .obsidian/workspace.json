@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Main Note/多元函数多阶偏导与坐标系转换.md",
+                "file": "1. Daily Note/2025-06-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多元函数多阶偏导与坐标系转换"
+              "title": "2025-06-10"
             }
           }
         ],
@@ -209,8 +209,8 @@
   },
   "active": "fdf51140c671d023",
   "lastOpenFiles": [
-    "2. Main Note/偏导数的倒数.md",
     "2. Main Note/多元函数多阶偏导与坐标系转换.md",
+    "2. Main Note/偏导数的倒数.md",
     "$/$phi$.md",
     "$",
     "4. Source Material/axis transfrom.png",
