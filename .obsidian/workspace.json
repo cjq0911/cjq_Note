@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "a0d287605e54324e",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "4712311b9209fd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,21 +22,20 @@
             }
           },
           {
-            "id": "fdf51140c671d023",
+            "id": "7de01c563304d104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Daily Note/2025-06-10.md",
+                "file": "2. Main Note/多元函数多阶偏导与坐标系转换.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-06-10"
+              "title": "多元函数多阶偏导与坐标系转换"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -207,21 +206,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fdf51140c671d023",
+  "active": "4712311b9209fd73",
   "lastOpenFiles": [
     "2. Main Note/多元函数多阶偏导与坐标系转换.md",
     "2. Main Note/偏导数的倒数.md",
+    "1. Daily Note/Welcome.md",
+    "拉普拉斯算子.md",
+    "1. Daily Note/2025-06-10.md",
+    "1. Daily Note/2025-06-09.md",
+    "2. Main Note/多元链式法则.md",
+    "2. Main Note/偏导数.md",
     "$/$phi$.md",
     "$",
     "4. Source Material/axis transfrom.png",
     "4. Source Material/IMG_0928(20250610-030211).png",
     "1. Source Material",
-    "1. Daily Note/2025-06-09.md",
-    "1. Daily Note/2025-06-10.md",
-    "1. Daily Note/Welcome.md",
     "2. Main Note/关于极限与微积分的想法.md",
     "3. Tag/笔记.md",
-    "2. Main Note/多元链式法则.md",
     "2. Main Note/关于包络线直线求解的感想.md",
     "2. Main Note/直线方程.md",
     "2. Main Note/对数-对数坐标系.md",
@@ -230,7 +231,6 @@
     "2. Main Note/方向导数.md",
     "2. Main Note/梯度为什么是函数变化最快的方向.md",
     "2. Main Note/梯度.md",
-    "2. Main Note/偏导数.md",
     "3. Tag/未整理.md",
     "3. Tag/已整理.md",
     "5. Template/Daily Note.md",
@@ -239,7 +239,6 @@
     "5. Template/Full Note.md",
     "5. Template/MATH_SYMBOL.md",
     "1. Daily Note",
-    "2. Main Note/2025-06-09.md",
     "4. Source Material/Symmetry of Second derivatives.png",
     "4. Source Material/Partial Derivative fig1.png",
     "4. Source Material/Mutilple-variable Chain rule fig1.png",
