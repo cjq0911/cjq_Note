@@ -3,5 +3,12 @@
   "newFileFolderPath": "5. Main Note",
   "alwaysUpdateLinks": true,
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "4. Source Material"
+  "attachmentFolderPath": "4. Source Material",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
