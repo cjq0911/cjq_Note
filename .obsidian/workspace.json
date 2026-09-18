@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Main Note/物理/相空间.md",
+                "file": "2. Main Note/数学/全微分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "相空间"
+              "title": "全微分"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "2. Main Note/物理/相空间.md",
     "2. Main Note/数学/全微分.md",
     "7. Empty Note/向量的加法.md",
     "微分.md",
@@ -214,7 +215,6 @@
     "2. Main Note/杂化轨道理论——轨道形状.md",
     "2. Main Note/数学/未命名.md",
     "2. Main Note/物理/体积密度与密度.md",
-    "2. Main Note/物理/相空间.md",
     "2. Main Note/物理/重力异常.md",
     "2. Main Note/物理/Ar定年.md",
     "2. Main Note/杂化轨道理论——什么是杂化.md",
